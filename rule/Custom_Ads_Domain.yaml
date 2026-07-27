@@ -1,0 +1,6 @@
+# REPO: https://github.com/alonginwind/Custom_OpenClash_Rules
+# TOTAL: 2
+
+payload:
+  - '+.pubfuture-ad.com'
+  - '+.pubadx.one'
