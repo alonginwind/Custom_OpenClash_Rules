@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 816
+# TOTAL: 817
 
 payload:
   - '*m-team*'
@@ -390,6 +390,7 @@ payload:
   - '+.inetlab.top'
   - '+.infini-fantasy.com'
   - '+.initaq.com'
+  - '+.inmobicdn.net'
   - '+.inte.net'
   - '+.iosgujian.com'
   - '+.iot889.com'
