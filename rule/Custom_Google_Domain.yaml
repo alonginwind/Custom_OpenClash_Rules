@@ -1,0 +1,5 @@
+# REPO: https://github.com/alonginwind/Custom_OpenClash_Rules
+# TOTAL: 1
+
+payload:
+  - 'dl.google.com'
