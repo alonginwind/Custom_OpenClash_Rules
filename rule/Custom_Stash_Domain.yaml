@@ -1,0 +1,8 @@
+# REPO: https://github.com/alonginwind/Custom_OpenClash_Rules
+# TOTAL: 1
+
+payload:
+  - '+.qianjiapp.com'
+  - '+.qujie365.com'
+  - '+.api-huacloud.dev'
+  - '+.aliyuncs.com'
